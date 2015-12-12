@@ -1,2 +1,2 @@
 # test-repo
-Sandbox Repo
+This is a test repo.
